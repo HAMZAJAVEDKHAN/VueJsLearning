@@ -1,0 +1,38 @@
+  /* #btn1{
+
+    color: white;
+    background-color: black;
+    height: 60px;
+    width: 40%;
+    text-align: center;
+    margin-left: 10%;
+    font-size: 20px;
+
+    padding: 20px;
+
+  }
+  #btn2{
+
+    color: white;
+    background-color: black;
+    height: 60px;
+    width: 40%;
+    font-size: 20px;
+
+    padding: 20px;
+
+  } */
+h1  {
+
+  margin-right:10%;
+  padding-right: 80%;
+}
+#canvas{
+  width: 600px;
+  padding: 200px 20px;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 250px;
+  font-size: 20px;
+  transition: smooth;
+}
